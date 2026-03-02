@@ -20,21 +20,22 @@ except:
     pass
 
 st.subheader("Una pequeña Fábula.")
-st.write(Había una vez una liebre muy vanidosa que se pasaba todo el día presumiendo de lo rápido que podía correr.  
+st.write(
+    Había una vez una liebre muy vanidosa que se pasaba todo el día presumiendo de lo rápido que podía correr.  
 Cansada de siempre escuchar sus alardes, la tortuga la retó a competir en una carrera,
-Qué chistosa que eres tortuga, debes estar bromeando—dijo la liebre mientras se reía a carcajadas. 
-Ya veremos liebre, guarda tus palabras hasta después de la carrera— respondió la tortuga. 
-Al día siguiente, los animales del bosque se reunieron para presenciar la carrera. 
-Todos querían ver si la tortuga en realidad podía vencer a la liebre. 
+Que chistosa que eres tortuga, debes estar bromeando—dijo la liebre mientras se reía a carcajadas,
+Ya veremos liebre, guarda tus palabras hasta después de la carrera— respondió la tortuga,
+Al día siguiente, los animales de el bosque se reunieron para presenciar la carrera. 
+Todos querían ver si la tortuga en realidad podía vencer a la liebre,
 El oso comenzó la carrera gritando: —¡En sus marcas, listos, ya! La liebre se adelantó inmediatamente, corrió y corrió más rápido que nunca. 
 Luego, miró hacia atrás y vio que la tortuga se encontraba a unos pocos pasos de la línea de inicio,
 Tortuga lenta e ingenua—pensó la liebre—. 
-¿ Por qué habrá querido competir, si no tiene ninguna oportunidad de ganar? Confiada en que iba a ganar la carrera, la liebre decidió parar en medio del camino para descansar debajo de un árbol. 
-La fresca y agradable sombra del árbol era muy relajante, tanto así que la liebre se quedó dormida,
+¿ Por qué habrá querido competir, si no tiene ninguna oportunidad de ganar? Confiada en que iba a ganar la carrera, la liebre decidió parar en medio de el camino para descansar debajo de un árbol. 
+La fresca y agradable sombra de el árbol era muy relajante, tanto así que la liebre se quedó dormida,
 Mientras tanto, la tortuga siguió caminando lento, pero sin pausa,
-Estaba decidida a no darse por vencida. 
-Pronto, se encontró con la liebre durmiendo plácidamente. 
-¡La tortuga estaba ganando la carrera! Cuando la tortuga se acercó a la meta, todos los animales del bosque comenzaron a gritar de emoción,
+Estaba decidida a no darse por vencida,
+Pronto, se encontró con la liebre durmiendo plácidamente,
+¡La tortuga estaba ganando la carrera! Cuando la tortuga se acercó a la meta, todos los animales de el bosque comenzaron a gritar de emoción,
 Los gritos despertaron a la liebre, que no podía dar crédito a sus ojos: la tortuga estaba cruzando la meta y ella había perdido la carrera. 
         )
            
