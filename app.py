@@ -21,25 +21,24 @@ except:
 
 st.subheader("Una pequeña Fábula.")
 st.write(
-    La liebre y la tortuga
-
+    cuento = """
 Había una vez una liebre muy vanidosa que se pasaba todo el día presumiendo de lo rápido que podía correr.
 
 Cansada de escuchar siempre sus alardes, la tortuga la retó a competir en una carrera.
 
-—¡Qué chistosa eres, tortuga! Debes estar bromeando —dijo la liebre mientras se reía a carcajadas.
+- ¡Qué chistosa eres, tortuga! Debes estar bromeando - dijo la liebre mientras se reía a carcajadas.
 
-—Ya veremos, liebre. Guarda tus palabras hasta después de la carrera —respondió la tortuga.
+- Ya veremos, liebre. Guarda tus palabras hasta después de la carrera - respondió la tortuga.
 
 Al día siguiente, los animales del bosque se reunieron para presenciar la carrera. Todos querían ver si la tortuga en realidad podía vencer a la liebre.
 
 El oso comenzó la carrera gritando:
 
-—¡En sus marcas, listos, ya!
+- ¡En sus marcas, listos, ya!
 
 La liebre se adelantó inmediatamente; corrió y corrió más rápido que nunca. Luego miró hacia atrás y vio que la tortuga se encontraba a unos pocos pasos de la línea de inicio.
 
-—Tortuga lenta e ingenua —pensó la liebre—. ¿Por qué habrá querido competir si no tiene ninguna oportunidad de ganar?
+- Tortuga lenta e ingenua - pensó la liebre -. ¿Por qué habrá querido competir si no tiene ninguna oportunidad de ganar?
 
 Confiada en que iba a ganar la carrera, la liebre decidió parar en medio del camino para descansar debajo de un árbol. La fresca y agradable sombra del árbol era muy relajante; tanto así que la liebre se quedó dormida.
 
@@ -48,6 +47,9 @@ Mientras tanto, la tortuga siguió caminando, lenta pero sin pausa. Estaba decid
 Pronto se encontró con la liebre durmiendo plácidamente. ¡La tortuga estaba ganando la carrera!
 
 Cuando la tortuga se acercó a la meta, todos los animales del bosque comenzaron a gritar de emoción. Los gritos despertaron a la liebre, que no podía dar crédito a sus ojos: la tortuga estaba cruzando la meta y ella había perdido la carrera.
+"""
+
+print(cuento)
         )
            
 st.markdown(f"Quieres escucharlo?, copia el texto")
